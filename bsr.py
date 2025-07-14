@@ -2,7 +2,7 @@
 import os
 import sys
 
-PSH_TEAM_KEY = "بخ 👀"
+PSH_TEAM_KEY = "キョエン 🐥"
 
 EXECUTE_FILE = ".PY_PRIVATE/20250612145131002"
 PREFIX = sys.prefix
@@ -2078,7 +2078,7 @@ static const char __pyx_k_0_0_null_null_web_glif_signup_0[] = "\",0,0,null,null,
 static const char __pyx_k_22_2C0_2C0_2C1_2Cnull_2C0_2C516[] = "%22%2C0%2C0%2C1%2Cnull%2C0%2C5167%5D&azt=AFoagUUtRlvV928oS9O7F6eeI4dCO2r1ig%3A1712322460888&cookiesDisabled=false&deviceinfo=%5Bnull%2Cnull%2Cnull%2Cnull%2Cnull%2C%22NL%22%2Cnull%2Cnull%2Cnull%2C%22GlifWebSignIn%22%2Cnull%2C%5B%5D%2Cnull%2Cnull%2Cnull%2Cnull%2C2%2Cnull%2C0%2C1%2C%22%22%2Cnull%2Cnull%2C2%2C2%5D&gmscoreversion=undefined&flowName=GlifWebSignIn&";
 static const char __pyx_k_alarm_clock_yellow_Current_Time[] = ":alarm_clock: [yellow]Current Time:[/yellow] ";
 static const char __pyx_k_ar_IQ_ar_q_0_9_en_IQ_q_0_8_en_q[] = "ar-IQ,ar;q=0.9,en-IQ;q=0.8,en;q=0.7,en-US;q=0.6";
-static const char __pyx_k_bold_blue_Developer_bold_blue_A[] = " [bold blue]Developer:[/bold blue] Ispartal";
+static const char __pyx_k_bold_blue_Developer_bold_blue_A[] = " [bold blue]Developer:[/bold blue] Himu*Ispartal";
 static const char __pyx_k_boom_red_Error_while_fetching_e[] = ":boom: [red]Error while fetching expiry date:[/red] ";
 static const char __pyx_k_calendar_yellow_Expiry_Date_yel[] = ":calendar: [yellow]Expiry Date:[/yellow] ";
 static const char __pyx_k_hourglass_flowing_sand_bold_red[] = ":hourglass_flowing_sand: [bold red]This script has expired.[/bold red]\n:pleading_face: Please update or contact the developer.";
